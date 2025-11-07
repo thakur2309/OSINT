@@ -1,12 +1,16 @@
 # FIREWALL BREAKER OSINT v3.1 [PROTECTED]  
 
-> **Professional Mobile Intelligence & OSINT Framework**  
-> **Created by Alok Thakur**  
-> **YouTube:** [FIREWALL BREAKER ETHICAL HACKING](https://youtube.com/@firewallbreaker)  
-> **Instagram:** [@sudo_xploit](https://instagram.com/sudo_xploit)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/FIREWALL-BREAKER-OSINT?style=social)](https://github.com/yourusername/FIREWALL-BREAKER-OSINT)
+[![YouTube](https://img.shields.io/badge/YouTube-Firewall%20Breaker-red)](https://www.youtube.com/@FirewallBreaker09)
+[![Instagram](https://img.shields.io/badge/Instagram-sudo_xploit-purple)](https://www.instagram.com/sudo_xploit)
+
+**FIREWALL BREAKER OSINT** is a **powerful, protected, and ethical** mobile number intelligence tool built for **OSINT researchers & ethical hackers**!  
+It performs **deep real-time lookups** on **Indian 10-digit mobile numbers**, extracts structured data, and exports results in **CSV** — all in a **colorful, interactive CLI**!
+
+> **Single File. Fully Protected. License Required.**  
+> **No source code. No setup. Just run.**
 
 ---
-
 ## About This Tool
 
 This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** — a powerful, secure, and ethical CLI tool for **Indian mobile number OSINT research**.
