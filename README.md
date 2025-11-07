@@ -1,6 +1,6 @@
 # FIREWALL BREAKER OSINT v3.1 [PROTECTED]  
 
-[![GitHub stars](https://img.shields.io/github/stars/thakur2309/FIREWALL-BREAKER-OSINT?style=social)](https://github.com/thakur2309/OSINT.git)
+[![GitHub stars](https://img.shields.io/github/stars/thakur2309/OSINT?style=social)](https://github.com/thakur2309/OSINT.git)
 [![YouTube](https://img.shields.io/badge/YouTube-Firewall%20Breaker-red)](https://www.youtube.com/@FirewallBreaker09)
 [![Instagram](https://img.shields.io/badge/Instagram-sudo_xploit-purple)](https://www.instagram.com/sudo_xploit)
 
@@ -30,6 +30,7 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 
 ### Supported Platforms
 - **Termux** �
+- **Windows** 🌱
 - **Kali Linux** 🐧
 - **Ubuntu/Debian** 🌱
 - **Parrot OS** 🕵️‍♂️
@@ -118,8 +119,3 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
 <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
 </a>
-
-
-**~ Alok Thakur**
-**Stay Ethical. Stay Powerful.**  
-**~ Alok Thakur**
