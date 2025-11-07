@@ -28,8 +28,27 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 > **Contact @sudo_xploit on Instagram for the license key.**  
 > DM with your **GitHub username** and **purpose** to get approved access.
 
+### Supported Platforms
+- **Kali Linux** 🐧
+- **Ubuntu/Debian** 🌱
+- **Parrot OS** 🕵️‍♂️
+- **Arch Linux** �
 ---
+## Installation 🛠️
+## 🐧 Linux Setup (Kali/Ubuntu/Debian)
+```bash
+sudo apt update
+# requirements 
+sudo apt install bluez git
 
+# (Recommended) Its work only root  permission
+
+git clone https://github.com/thakur2309/BTSTORM.git
+cd BTSTORM
+
+# run script
+sudo python bluetooth-jammer.py
+```
 ## How to Use
 
 1. **Download** `protected_tool.py`  
@@ -73,30 +92,30 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 
 ---
 
-## Disclaimer
-
-> This tool is for **educational and ethical use only**.  
-> The author is **not responsible** for misuse.  
-> You are **solely responsible** for legal compliance.  
-> Use **only on numbers you own or have permission** to query.  
-> **No warranty. Use at your own risk.**
+## ⚠️ Disclaimer
+This tool is intended **only for educational and lawful use** on devices **you own** or have **explicit permission** to manage. The creator and contributors are **not responsible** for any misuse.  
+Stay ethical — **Firewall Breaker** community promotes **learning & safety**, not harm.
 
 ---
 
-## Author
-
-**Alok Thakur**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- YouTube: [FIREWALL BREAKER ETHICAL HACKING](https://youtube.com/@firewallbreaker)  
-- Instagram: [@sudo_xploit](https://instagram.com/sudo_xploit)  
+👨‍💻 **Author**  
+- Made with ❤️ by **thakur2309** 
+- Name: **Alok Thakur**  
+- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
 
 ---
+## 📌 Contact Me  
 
-**Star this repo if you support ethical hacking!**
+<a href="https://youtube.com/@firewallbreaker09">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>  
+<br>  
 
----
-
-**Stay Ethical. Stay Powerful.**  
+<a href="https://github.com/thakur2309?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>  
+<br>  
+  
 **~ Alok Thakur**
 **Stay Ethical. Stay Powerful.**  
 **~ Alok Thakur**
