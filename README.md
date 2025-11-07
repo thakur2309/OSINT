@@ -1,6 +1,6 @@
 # FIREWALL BREAKER OSINT v3.1 [PROTECTED]  
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FIREWALL-BREAKER-OSINT?style=social)](https://github.com/yourusername/FIREWALL-BREAKER-OSINT)
+[![GitHub stars](https://img.shields.io/github/stars/thakur2309/FIREWALL-BREAKER-OSINT?style=social)](https://github.com/thakur2309/OSINT.git)
 [![YouTube](https://img.shields.io/badge/YouTube-Firewall%20Breaker-red)](https://www.youtube.com/@FirewallBreaker09)
 [![Instagram](https://img.shields.io/badge/Instagram-sudo_xploit-purple)](https://www.instagram.com/sudo_xploit)
 
@@ -29,25 +29,24 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 > DM with your **GitHub username** and **purpose** to get approved access.
 
 ### Supported Platforms
+- **Termux** �
 - **Kali Linux** 🐧
 - **Ubuntu/Debian** 🌱
 - **Parrot OS** 🕵️‍♂️
 - **Arch Linux** �
 ---
 ## Installation 🛠️
-## 🐧 Linux Setup (Kali/Ubuntu/Debian)
+## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
 ```bash
 sudo apt update
 # requirements 
-sudo apt install bluez git
+pip install -r requirements.txt
 
-# (Recommended) Its work only root  permission
-
-git clone https://github.com/thakur2309/BTSTORM.git
-cd BTSTORM
+git clone https://github.com/thakur2309/OSINT.git
+cd OSINT
 
 # run script
-sudo python bluetooth-jammer.py
+protected_tool.py
 ```
 ## How to Use
 
