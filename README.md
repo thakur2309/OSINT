@@ -36,6 +36,33 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 - **Parrot OS** 🕵️‍♂️
 - **Arch Linux** �
 ---
+## Windows 10/11 Installation (PowerShell)  
+
+> **Step-by-step for beginners — no prior knowledge needed!**
+
+### Step 1: Install Python  
+1. Go to: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+2. Click **"Download Python 3.12"** (or latest)  
+3. Run the installer  
+4. **CHECK THIS BOX**: `Add Python to PATH`  
+5. Click **"Install Now"**  
+6. Wait → Finish  
+
+> Verify: Open **PowerShell** → Type:  
+```powershell
+python --version
+Should show: Python 3.12.x```
+### Step 2: Install Git  
+1. Go to: [https://git-scm.com/download/win](https://git-scm.com/download/win)  
+2. Click **"Download "** (or latest)  
+3. Run the installer    
+4. Wait → Finish  
+
+> Verify: Open **PowerShell** → Type:  
+```powershell
+python --version
+Should show: Python 3.12.x```
+
 ## Installation 🛠️
 ## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
 ```bash
