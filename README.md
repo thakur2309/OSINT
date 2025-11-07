@@ -49,9 +49,8 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 6. Wait → Finish  
 
 > Verify: Open **PowerShell** → Type:  
-``powershell
-python --version
-Should show: Python 3.12.x``
+`Python --version`
+Should show: Python 3.12.x
 
 ### Step 2: Install Git  
 1. Go to: [https://git-scm.com/download/win](https://git-scm.com/download/win)  
@@ -60,9 +59,8 @@ Should show: Python 3.12.x``
 4. Wait → Finish  
 
 > Verify: Open **PowerShell** → Type:  
-```powershell
-python --version
-Should show: Python 3.12.x```
+`Git --version`
+Should show: Git 2.51.x
 
 ## Installation 🛠️
 ## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
