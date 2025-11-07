@@ -49,9 +49,10 @@ This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** �
 6. Wait → Finish  
 
 > Verify: Open **PowerShell** → Type:  
-```powershell
+``powershell
 python --version
-Should show: Python 3.12.x```
+Should show: Python 3.12.x``
+
 ### Step 2: Install Git  
 1. Go to: [https://git-scm.com/download/win](https://git-scm.com/download/win)  
 2. Click **"Download "** (or latest)  
