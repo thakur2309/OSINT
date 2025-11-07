@@ -61,16 +61,27 @@ Should show: Python 3.12.x
 > Verify: Open **PowerShell** → Type:  
 `Git --version`
 Should show: Git 2.51.x
-
-## Installation 🛠️
-## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
+## Step 3: type in power shell �
 ```bash
-sudo apt update
+git clone https://github.com/thakur2309/OSINT.git
+cd OSINT
+
 # requirements 
 pip install -r requirements.txt
 
+# run script
+protected_tool.py
+```
+## Installation 🛠️
+## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
+```bash
+#In termux remove sudo
+sudo apt update
 git clone https://github.com/thakur2309/OSINT.git
 cd OSINT
+
+# requirements 
+pip install -r requirements.txt
 
 # run script
 protected_tool.py
