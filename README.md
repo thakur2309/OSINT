@@ -114,7 +114,12 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
-  
+
+<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+</a>
+
+
 **~ Alok Thakur**
 **Stay Ethical. Stay Powerful.**  
 **~ Alok Thakur**
