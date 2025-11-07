@@ -70,7 +70,7 @@ cd OSINT
 pip install -r requirements.txt
 
 # run script
-protected_tool.py
+python protected_tool.py
 ```
 ## Installation 🛠️
 ## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
@@ -84,7 +84,7 @@ cd OSINT
 pip install -r requirements.txt
 
 # run script
-protected_tool.py
+python protected_tool.py
 ```
 ## How to Use
 
