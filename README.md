@@ -154,5 +154,5 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
 <br>  
 
 <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+  <img src="https://img.shields.io/badge/WhatsApp-F77737?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
 </a>
