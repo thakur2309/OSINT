@@ -19,7 +19,6 @@ def decrypt(b64s: str) -> str:
     plain = zlib.decompress(xor_bytes(raw, SECRET))
     return plain.decode("utf-8")
 
-# SHA256 of "ALOKTHAKUR2025"
 VALID_KEY_HASH = "cb4d1f2d4fc24c2b45223a911cbb674712374cc6cd8564c1093ba9e7a45db501"
 
 def check_license(user_input: str) -> bool:
